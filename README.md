@@ -32,5 +32,4 @@ Variable Number: 9
 <br>
 <br>
 
-> Original file is located at
-[Google colab link](https://colab.research.google.com/drive/1_w-ePh4QPxRQLeFRCmeVb6WMzVoTaXVq)
+
